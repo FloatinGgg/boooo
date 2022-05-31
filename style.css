@@ -1,9 +1,6 @@
-@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
-
 
 html,body
 {
-  color:#222;
   background:black;
   padding: 30px;
 }
