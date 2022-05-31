@@ -3,13 +3,7 @@
 
 html,body{
   font-family:'Poppins',sans-serif;
-    color:#222;
-  background:#FFFAF0;
-  padding: 30px;
-}
-.carousel img{
-  width:100%;
-  height:100%;
+  padding: 1px;
 }
 
 
