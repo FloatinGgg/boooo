@@ -1,37 +1,18 @@
+
+   @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
+
 html,body{
-  color:#222;
+  font-family:'Poppins',sans-serif;
+    color:#222;
   background:#FFFAF0;
-  padding: 60px;
+  padding: 30px;
+}
+.carousel img{
+  width:100%;
+  height:100%;
 }
 
-.btn-primary{
-  width:50%;
-  background-color: red;
-  border:1px solid red;
-}
-.btn-primary:hover{
-  background-color: green;
-  border:1px solid green;
-}
-.btn-primary:focus{
-  background-color: orange;
-  border:1px solid orange;
-}
-.carousel-item img{
-    width:100%;
-    height:100%;
-}
-.card-header{
-    background-color: #FFFAF0;
-}
-.card-footer{
-    background-color: #FFFAF0;
-}
-.button{
-  background-color: #FFFAF0;
-}
-.btn-success{
-  text-align:center;
-  height:150%;
-  background-color: #228B22;
-}
+
+
+
+
